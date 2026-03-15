@@ -1,0 +1,1883 @@
+[
+  {
+    "id": "green",
+    "name": "Greenie",
+    "unlockDistance": 0,
+    "lore": "A simple forest slime. Small but full of potential.",
+    "colors": {
+      "main": "#55DD55",
+      "outline": "#228822",
+      "highlight": "#AAFFAA"
+    },
+    "unlockCost": 0,
+    "feature": "greenie"
+  },
+  {
+    "id": "blue",
+    "name": "Sky Blue",
+    "unlockDistance": 0,
+    "lore": "Reflects the clear morning sky. Feels lighter than air.",
+    "colors": {
+      "main": "#54A0FF",
+      "outline": "#2E86DE",
+      "highlight": "#CAE4FF"
+    },
+    "unlockCost": 0
+  },
+  {
+    "id": "red",
+    "name": "Magma Red",
+    "unlockDistance": 0,
+    "lore": "Born in the heart of a volcano. Immune to heat (mostly).",
+    "colors": {
+      "main": "#ff4757",
+      "outline": "#c0392b",
+      "highlight": "#ff7f7f"
+    },
+    "unlockCost": 0
+  },
+  {
+    "id": "purple",
+    "name": "Void Purple",
+    "unlockDistance": 0,
+    "lore": "Found in the deepest corners of space. Eerie but cute.",
+    "colors": {
+      "main": "#A55EEA",
+      "outline": "#8854D0",
+      "highlight": "#D1D8FF"
+    },
+    "unlockCost": 0
+  },
+  {
+    "id": "pink",
+    "name": "Berry Pink",
+    "unlockDistance": 0,
+    "lore": "Sweet as a strawberry. Leaves a sugary scent behind.",
+    "colors": {
+      "main": "#FF9FF3",
+      "outline": "#F368E0",
+      "highlight": "#FFD6F7"
+    },
+    "unlockCost": 0
+  },
+  {
+    "id": "basketball",
+    "name": "Basketball Slime",
+    "unlockDistance": 0,
+    "feature": "basketball",
+    "lore": "Can dunk without even having arms. Pure air-time master.",
+    "colors": {
+      "main": "#e67e22",
+      "outline": "#d35400",
+      "highlight": "#f39c12"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "boxing",
+    "name": "Boxing Slime",
+    "unlockDistance": 0,
+    "feature": "boxing_gloves",
+    "lore": "Float like a butterfly, sting like a... jelly?",
+    "colors": {
+      "main": "#ff4757",
+      "outline": "#c0392b",
+      "highlight": "#ff6b81"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "tennis",
+    "name": "Tennis Slime",
+    "unlockDistance": 0,
+    "feature": "tennis_racket",
+    "lore": "Known for his incredible backhand and neon yellow body.",
+    "colors": {
+      "main": "#ccff00",
+      "outline": "#99cc00",
+      "highlight": "#e6ffcc"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "golf",
+    "name": "Golf Slime",
+    "unlockDistance": 0,
+    "feature": "golf_cap",
+    "lore": "He never misses a hole-in-one because he IS the ball sometimes.",
+    "colors": {
+      "main": "#f1f2f6",
+      "outline": "#2f3542",
+      "highlight": "#ffffff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "swimming",
+    "name": "Swimming Slime",
+    "unlockDistance": 0,
+    "feature": "goggles",
+    "lore": "Fastest in the water, surprisingly bouncy on land.",
+    "colors": {
+      "main": "#70a1ff",
+      "outline": "#1e90ff",
+      "highlight": "#a4b0be"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "judo",
+    "name": "Judo Slime",
+    "unlockDistance": 0,
+    "feature": "black_belt",
+    "lore": "Using gravity's momentum against itself. Black belt in boing.",
+    "colors": {
+      "main": "#ffffff",
+      "outline": "#2f3542",
+      "highlight": "#f1f2f6"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "skate",
+    "name": "Skater Slime",
+    "unlockDistance": 0,
+    "feature": "skate_helmet",
+    "lore": "Did a kickflip over a lava lake once. True legend.",
+    "colors": {
+      "main": "#ffa502",
+      "outline": "#ff7f50",
+      "highlight": "#ffbe76"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "fencing",
+    "name": "Fencer Slime",
+    "unlockDistance": 0,
+    "feature": "fencing_mask",
+    "lore": "En garde! A gentleman of precise and sharp jumps.",
+    "colors": {
+      "main": "#ced6e0",
+      "outline": "#2f3542",
+      "highlight": "#dfe4ea"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "weightlifting",
+    "name": "Lifter Slime",
+    "unlockDistance": 0,
+    "feature": "weight_belt",
+    "lore": "He doesn't jump, he pushes the earth down.",
+    "colors": {
+      "main": "#57606f",
+      "outline": "#2f3542",
+      "highlight": "#a4b0be"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "cycling",
+    "name": "Cycling Slime",
+    "unlockDistance": 0,
+    "feature": "bike_helmet",
+    "lore": "Aerodynamic shape for maximum vertical velocity.",
+    "colors": {
+      "main": "#1e90ff",
+      "outline": "#2f3542",
+      "highlight": "#70a1ff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "skiing",
+    "name": "Ski Slime",
+    "unlockDistance": 0,
+    "feature": "ski_goggles",
+    "lore": "Prefers the clouds, they feel like fresh powder snow.",
+    "colors": {
+      "main": "#747d8c",
+      "outline": "#2f3542",
+      "highlight": "#ced6e0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "baseball_catcher",
+    "name": "Catcher Slime",
+    "unlockDistance": 0,
+    "feature": "catcher_mask",
+    "lore": "Nothing gets past him. Not even a falling platform.",
+    "colors": {
+      "main": "#ff4757",
+      "outline": "#2f3542",
+      "highlight": "#ff6b81"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "taekwondo",
+    "name": "Taekwondo Slime",
+    "unlockDistance": 0,
+    "feature": "head_guard",
+    "lore": "Kicking the air to jump higher. Master of the high kick.",
+    "colors": {
+      "main": "#ffffff",
+      "outline": "#ff4757",
+      "highlight": "#f1f2f6"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "archery",
+    "name": "Archer Slime",
+    "unlockDistance": 0,
+    "feature": "quiver",
+    "lore": "Precision is everything. Straight as an arrow.",
+    "colors": {
+      "main": "#2ed573",
+      "outline": "#009432",
+      "highlight": "#7bed9f"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "karate",
+    "name": "Karate Slime",
+    "unlockDistance": 0,
+    "feature": "red_headband",
+    "lore": "Focus, breath, and boing. The way of the slime hand.",
+    "colors": {
+      "main": "#ffffff",
+      "outline": "#000000",
+      "highlight": "#f1f2f6"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "volleyball",
+    "name": "Volley Slime",
+    "unlockDistance": 0,
+    "feature": "volleyball",
+    "lore": "Always ready for a spike. Loves high-tension jumps.",
+    "colors": {
+      "main": "#ffffff",
+      "outline": "#1e90ff",
+      "highlight": "#f1f2f6"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "rugby",
+    "name": "Rugby Slime",
+    "unlockDistance": 0,
+    "feature": "scrum_cap",
+    "lore": "Built for impact. Loves a good scrum on a moving platform.",
+    "colors": {
+      "main": "#57606f",
+      "outline": "#2f3542",
+      "highlight": "#a4b0be"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "hockey",
+    "name": "Hockey Slime",
+    "unlockDistance": 0,
+    "feature": "hockey_mask",
+    "lore": "Cold-hearted on the ice, but very bouncy on platforms.",
+    "colors": {
+      "main": "#ffffff",
+      "outline": "#2f3542",
+      "highlight": "#ced6e0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "badminton",
+    "name": "Shuttlecock Slime",
+    "unlockDistance": 0,
+    "feature": "shuttlecock",
+    "lore": "Light as a feather, but lands with purpose.",
+    "colors": {
+      "main": "#ced6e0",
+      "outline": "#747d8c",
+      "highlight": "#ffffff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "surfing",
+    "name": "Surfer Slime",
+    "unlockDistance": 0,
+    "feature": "surfboard",
+    "lore": "Riding the lava waves like it's a summer vacation.",
+    "colors": {
+      "main": "#00d2d3",
+      "outline": "#01a3a4",
+      "highlight": "#48dbfb"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "doctor",
+    "name": "Doctor Slime",
+    "unlockDistance": 0,
+    "feature": "stethoscope",
+    "lore": "Trust me, I'm a doctor. I can diagnose your jump height.",
+    "colors": {
+      "main": "#ffffff",
+      "outline": "#747d8c",
+      "highlight": "#f1f2f6"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "firefighter",
+    "name": "Fire Slime",
+    "unlockDistance": 0,
+    "feature": "fire_helmet",
+    "lore": "Ready to extinguish the lava. Or just jump over it.",
+    "colors": {
+      "main": "#ff4757",
+      "outline": "#c0392b",
+      "highlight": "#ff6b81"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "scientist",
+    "name": "Lab Slime",
+    "unlockDistance": 0,
+    "feature": "lab_flask",
+    "lore": "Calculating the precise trajectory of every boing.",
+    "colors": {
+      "main": "#a4b0be",
+      "outline": "#2f3542",
+      "highlight": "#ced6e0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "astronaut",
+    "name": "Astro Slime",
+    "unlockDistance": 0,
+    "feature": "space_helmet",
+    "lore": "One small step for a slime, one giant leap for slimekind.",
+    "colors": {
+      "main": "#ffffff",
+      "outline": "#2f3542",
+      "highlight": "#f1f2f6"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "builder",
+    "name": "Builder Slime",
+    "unlockDistance": 0,
+    "feature": "hard_hat",
+    "lore": "Building safer platforms since 2024.",
+    "colors": {
+      "main": "#ffa502",
+      "outline": "#e67e22",
+      "highlight": "#ffbe76"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "farmer",
+    "name": "Farmer Slime",
+    "unlockDistance": 0,
+    "feature": "straw_hat",
+    "lore": "Honest work, honest jumps. Loves fresh spring water.",
+    "colors": {
+      "main": "#55DD55",
+      "outline": "#228822",
+      "highlight": "#AAFFAA"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "artist",
+    "name": "Artist Slime",
+    "unlockDistance": 0,
+    "feature": "beret",
+    "lore": "Every jump is a brushstroke on the canvas of the sky.",
+    "colors": {
+      "main": "#ff9ff3",
+      "outline": "#f368e0",
+      "highlight": "#ffc8f0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "executive",
+    "name": "CEO Slime",
+    "unlockDistance": 0,
+    "feature": "necktie",
+    "lore": "Time is money. My schedule is packed with high-velocity jumps.",
+    "colors": {
+      "main": "#2f3542",
+      "outline": "#000000",
+      "highlight": "#57606f"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "wizard",
+    "name": "Wizard Slime",
+    "unlockDistance": 0,
+    "feature": "wizard_hat",
+    "lore": "It's not jumping, it's a very fast levitation spell.",
+    "colors": {
+      "main": "#5f27cd",
+      "outline": "#341f97",
+      "highlight": "#9b59b6"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "pilot",
+    "name": "Pilot Slime",
+    "unlockDistance": 0,
+    "feature": "pilot_cap",
+    "lore": "We are cleared for takeoff. Final destination: Space.",
+    "colors": {
+      "main": "#1e90ff",
+      "outline": "#2f3542",
+      "highlight": "#70a1ff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "judge",
+    "name": "Judge Slime",
+    "unlockDistance": 0,
+    "feature": "judge_wig",
+    "lore": "I find the lava... guilty! Sentence: Eternal avoidance.",
+    "colors": {
+      "main": "#2f3542",
+      "outline": "#000000",
+      "highlight": "#57606f"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "miner",
+    "name": "Miner Slime",
+    "unlockDistance": 0,
+    "feature": "miner_hat",
+    "lore": "Digging deep into the high scores. The light leads the way.",
+    "colors": {
+      "main": "#747d8c",
+      "outline": "#2f3542",
+      "highlight": "#ced6e0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "detective",
+    "name": "Sherlock Slime",
+    "unlockDistance": 0,
+    "feature": "detective_hat",
+    "lore": "The mystery of the infinite platforms... solved.",
+    "colors": {
+      "main": "#795548",
+      "outline": "#5d4037",
+      "highlight": "#a1887f"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "sailor",
+    "name": "Sailor Slime",
+    "unlockDistance": 0,
+    "feature": "sailor_cap",
+    "lore": "Sailing through the sky. A true jelly of the sea.",
+    "colors": {
+      "main": "#ffffff",
+      "outline": "#1e90ff",
+      "highlight": "#70a1ff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "nurse",
+    "name": "Nurse Slime",
+    "unlockDistance": 0,
+    "feature": "nurse_cap",
+    "lore": "Here to heal your soul after a fall. Keep going!",
+    "colors": {
+      "main": "#ffffff",
+      "outline": "#ff4757",
+      "highlight": "#ffafaf"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "graduate",
+    "name": "Grad Slime",
+    "unlockDistance": 0,
+    "feature": "grad_cap",
+    "lore": "PhD in Platform Physics. Graduated with honors in Boing.",
+    "colors": {
+      "main": "#2f3542",
+      "outline": "#000000",
+      "highlight": "#57606f"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "cowboy",
+    "name": "Cowboy Slime",
+    "unlockDistance": 0,
+    "feature": "cowboy_hat",
+    "lore": "This platform ain't big enough for the two of us. Yeehaw!",
+    "colors": {
+      "main": "#ffa502",
+      "outline": "#795548",
+      "highlight": "#ffbe76"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "mechanic",
+    "name": "Fixer Slime",
+    "unlockDistance": 0,
+    "feature": "wrench",
+    "lore": "If it doesn't bounce, I can fix it. Hand me the wrench.",
+    "colors": {
+      "main": "#747d8c",
+      "outline": "#2f3542",
+      "highlight": "#ced6e0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "teacher",
+    "name": "Teacher Slime",
+    "unlockDistance": 0,
+    "feature": "glasses",
+    "lore": "Class is in session! Lesson one: Don't touch the lava.",
+    "colors": {
+      "main": "#ffa502",
+      "outline": "#e67e22",
+      "highlight": "#ffbe76"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "diver",
+    "name": "Diver Slime",
+    "unlockDistance": 0,
+    "feature": "scuba_mask",
+    "lore": "The deep sky feels just like the deep ocean.",
+    "colors": {
+      "main": "#00d2d3",
+      "outline": "#01a3a4",
+      "highlight": "#48dbfb"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "cat",
+    "name": "Kitty Slime",
+    "unlockDistance": 0,
+    "feature": "cat_ears",
+    "lore": "Lands on its feet every time. Hates lava, obviously.",
+    "colors": {
+      "main": "#ffb3c6",
+      "outline": "#e05c8a",
+      "highlight": "#ffe0ec"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "dog",
+    "name": "Doggo Slime",
+    "unlockDistance": 0,
+    "feature": "dog_ears",
+    "lore": "Best slime. Always excited to jump. Very good blob.",
+    "colors": {
+      "main": "#e8a838",
+      "outline": "#a06a18",
+      "highlight": "#f5d080"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "bunny",
+    "name": "Bunny Slime",
+    "unlockDistance": 0,
+    "feature": "bunny_ears",
+    "lore": "Hops higher than everyone else. It's just science.",
+    "colors": {
+      "main": "#f5f0ff",
+      "outline": "#b09ac0",
+      "highlight": "#ffffff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "frog",
+    "name": "Frog Slime",
+    "unlockDistance": 0,
+    "feature": "frog_eyes",
+    "lore": "Two eyes on top, zero regrets. Ribbit.",
+    "colors": {
+      "main": "#00e04a",
+      "outline": "#009530",
+      "highlight": "#80ffb2"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "bee",
+    "name": "Bee Slime",
+    "unlockDistance": 0,
+    "feature": "bee_wings",
+    "lore": "Technically not aerodynamic. Does not care. Bzzz.",
+    "colors": {
+      "main": "#f9ca24",
+      "outline": "#e08020",
+      "highlight": "#fff3a0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "penguin",
+    "name": "Penguin Slime",
+    "unlockDistance": 20,
+    "feature": "penguin_bow",
+    "lore": "Dressed for the occasion. Always.",
+    "colors": {
+      "main": "#2f3542",
+      "outline": "#1a1a2e",
+      "highlight": "#57606f"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "fox",
+    "name": "Fox Slime",
+    "unlockDistance": 30,
+    "feature": "fox_ears",
+    "lore": "Clever, quick, and slightly suspicious.",
+    "colors": {
+      "main": "#ff6b35",
+      "outline": "#c0390a",
+      "highlight": "#ffaa7a"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "duck",
+    "name": "Duck Slime",
+    "unlockDistance": 40,
+    "feature": "duck_bill",
+    "lore": "Quack. Quack quack quack. That's it. That's the lore.",
+    "colors": {
+      "main": "#ffd32a",
+      "outline": "#d4a000",
+      "highlight": "#fff3a0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "bear",
+    "name": "Bear Slime",
+    "unlockDistance": 50,
+    "feature": "bear_ears",
+    "lore": "Fuzzy, cozy, and surprisingly great at jumping.",
+    "colors": {
+      "main": "#c87941",
+      "outline": "#8b5020",
+      "highlight": "#e8b070"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "owl",
+    "name": "Owl Slime",
+    "unlockDistance": 65,
+    "feature": "owl_beak",
+    "lore": "Sees every platform before anyone else. Ancient wisdom.",
+    "colors": {
+      "main": "#8c7aae",
+      "outline": "#5c4a7e",
+      "highlight": "#c0b0e0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "panda",
+    "name": "Panda Slime",
+    "unlockDistance": 80,
+    "feature": "panda_ears",
+    "lore": "Rare. Precious. Absolutely terrible at camouflage.",
+    "colors": {
+      "main": "#f2f2f2",
+      "outline": "#2f3542",
+      "highlight": "#ffffff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "shark",
+    "name": "Shark Slime",
+    "unlockDistance": 100,
+    "feature": "shark_fin",
+    "lore": "Do do do do do do. Baby slime? No. Apex slime.",
+    "colors": {
+      "main": "#5b9abf",
+      "outline": "#2d6b90",
+      "highlight": "#a0cce0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "axolotl",
+    "name": "Axolotl Slime",
+    "unlockDistance": 120,
+    "feature": "axolotl_gills",
+    "lore": "Regenerates confidence after every failed jump.",
+    "colors": {
+      "main": "#ff8fa3",
+      "outline": "#c0405a",
+      "highlight": "#ffc0cb"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "octopus",
+    "name": "Octo Slime",
+    "unlockDistance": 140,
+    "feature": "octopus_tentacles",
+    "lore": "Eight arms and still no way to hold the controller.",
+    "colors": {
+      "main": "#9b59b6",
+      "outline": "#6c3483",
+      "highlight": "#d2a8e8"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "lion",
+    "name": "Lion Slime",
+    "unlockDistance": 160,
+    "feature": "lion_mane",
+    "lore": "Mighty roar. Excellent mane. Still scared of lava.",
+    "colors": {
+      "main": "#e6a817",
+      "outline": "#a07010",
+      "highlight": "#f5d070"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "butterfly",
+    "name": "Butterfly Slime",
+    "unlockDistance": 180,
+    "feature": "butterfly_wings",
+    "lore": "Once a boring cube, now a glorious flying jelly.",
+    "colors": {
+      "main": "#00cec9",
+      "outline": "#006a68",
+      "highlight": "#81ecec"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "tiger",
+    "name": "Tiger Slime",
+    "unlockDistance": 200,
+    "feature": "tiger_stripes",
+    "lore": "Ferocious. Striped. Bouncing at 200% capacity.",
+    "colors": {
+      "main": "#e67e22",
+      "outline": "#c0500a",
+      "highlight": "#f0a060"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "chameleon",
+    "name": "Chameleon Slime",
+    "unlockDistance": 240,
+    "feature": "chameleon_eye",
+    "lore": "Blends in everywhere except on fire. Very inconvenient.",
+    "colors": {
+      "main": "#00b894",
+      "outline": "#006650",
+      "highlight": "#55efc4"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "elephant",
+    "name": "Elephant Slime",
+    "unlockDistance": 280,
+    "feature": "elephant_trunk",
+    "lore": "Never forgets a platform. Never. Not once.",
+    "colors": {
+      "main": "#9aabb8",
+      "outline": "#566a78",
+      "highlight": "#c8d8e4"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "crow",
+    "name": "Crow Slime",
+    "unlockDistance": 320,
+    "feature": "crow_feathers",
+    "lore": "Collects shiny platforms. Judges everyone silently.",
+    "colors": {
+      "main": "#2d3436",
+      "outline": "#1a1a1a",
+      "highlight": "#74b9ff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "knight",
+    "name": "Knight Slime",
+    "unlockDistance": 0,
+    "feature": "knight_helm",
+    "lore": "Fully armored. Still jiggly. Chivalry is not dead.",
+    "colors": {
+      "main": "#a0a8b0",
+      "outline": "#5a6070",
+      "highlight": "#d8e0e8"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "dragon_sl",
+    "name": "Dragon Slime",
+    "unlockDistance": 0,
+    "feature": "dragon_horns",
+    "lore": "Breathes fire. Melts platforms. Has zero regrets.",
+    "colors": {
+      "main": "#c0302a",
+      "outline": "#8b0000",
+      "highlight": "#ff7060"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "elf",
+    "name": "Elf Slime",
+    "unlockDistance": 0,
+    "feature": "elf_ears",
+    "lore": "+10 Agility. -10 Attitude. Immune to lava? No.",
+    "colors": {
+      "main": "#4ecdc4",
+      "outline": "#2d8078",
+      "highlight": "#a0e8e4"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "vampire",
+    "name": "Vampire Slime",
+    "unlockDistance": 0,
+    "feature": "vampire_fangs",
+    "lore": "I vant to suck your... platforms? PLATFORMS.",
+    "colors": {
+      "main": "#8b1a2a",
+      "outline": "#3a0010",
+      "highlight": "#d06080"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "ghost",
+    "name": "Ghost Slime",
+    "unlockDistance": 0,
+    "feature": "ghost_face",
+    "lore": "Already died once. Not impressed by lava.",
+    "colors": {
+      "main": "#d0d8f0",
+      "outline": "#8090c0",
+      "highlight": "#f0f4ff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "witch",
+    "name": "Witch Slime",
+    "unlockDistance": 0,
+    "feature": "witch_brim",
+    "lore": "Cackles while falling. Somehow lands perfectly.",
+    "colors": {
+      "main": "#6c3483",
+      "outline": "#3d1a5e",
+      "highlight": "#c090e0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "angel",
+    "name": "Angel Slime",
+    "unlockDistance": 0,
+    "feature": "angel_halo",
+    "lore": "Descended from jelly heaven. Terrifyingly pure.",
+    "colors": {
+      "main": "#fff8e0",
+      "outline": "#d4af37",
+      "highlight": "#ffffff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "demon",
+    "name": "Demon Slime",
+    "unlockDistance": 0,
+    "feature": "demon_horns",
+    "lore": "Spawned from the lava itself. This explains a lot.",
+    "colors": {
+      "main": "#d63031",
+      "outline": "#7a0000",
+      "highlight": "#ff8060"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "mermaid",
+    "name": "Mermaid Slime",
+    "unlockDistance": 0,
+    "feature": "mermaid_fin",
+    "lore": "Flopped onto land one day. Discovered platforms. Stayed.",
+    "colors": {
+      "main": "#1abc9c",
+      "outline": "#0e7a6a",
+      "highlight": "#7de8d8"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "unicorn",
+    "name": "Unicorn Slime",
+    "unlockDistance": 0,
+    "feature": "unicorn_horn",
+    "lore": "Pure, magical, and 100% immune to bad vibes.",
+    "colors": {
+      "main": "#f8c8d8",
+      "outline": "#c080a0",
+      "highlight": "#ffffff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "phoenix",
+    "name": "Phoenix Slime",
+    "unlockDistance": 0,
+    "feature": "phoenix_crest",
+    "lore": "Reborn from lava. Again. And again. And again.",
+    "colors": {
+      "main": "#e8500a",
+      "outline": "#c03000",
+      "highlight": "#ffa060"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "fairy",
+    "name": "Fairy Slime",
+    "unlockDistance": 0,
+    "feature": "fairy_dust",
+    "lore": "Tiny, sparkly, and absolutely feral.",
+    "colors": {
+      "main": "#c39bd3",
+      "outline": "#7d3c98",
+      "highlight": "#f0d8ff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "skeleton_sl",
+    "name": "Skeleton Slime",
+    "unlockDistance": 0,
+    "feature": "skull_mask",
+    "lore": "No bones. No problem. Still spooky somehow.",
+    "colors": {
+      "main": "#e8e0d0",
+      "outline": "#a09880",
+      "highlight": "#fff8f0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "crystal_sl",
+    "name": "Crystal Slime",
+    "unlockDistance": 0,
+    "feature": "crystal_crown",
+    "lore": "Hard on the outside, pure crystal inside. Don't drop.",
+    "colors": {
+      "main": "#74b9ff",
+      "outline": "#2980b9",
+      "highlight": "#d4ecff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "darkmage",
+    "name": "Dark Mage Slime",
+    "unlockDistance": 0,
+    "feature": "dark_orb",
+    "lore": "Wields forbidden knowledge. Mostly uses it to jump higher.",
+    "colors": {
+      "main": "#4a2c6a",
+      "outline": "#200a40",
+      "highlight": "#9060d0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "forest_sp",
+    "name": "Forest Spirit",
+    "unlockDistance": 0,
+    "feature": "leaf_wreath",
+    "lore": "Ancient guardian of the forest floor. Very bouncy.",
+    "colors": {
+      "main": "#27ae60",
+      "outline": "#145a32",
+      "highlight": "#82e0aa"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "golem",
+    "name": "Golem Slime",
+    "unlockDistance": 0,
+    "feature": "stone_rune",
+    "lore": "Carved from ancient rock. Still squishy. Magic.",
+    "colors": {
+      "main": "#8e9ba6",
+      "outline": "#566270",
+      "highlight": "#c8d4dc"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "siren",
+    "name": "Siren Slime",
+    "unlockDistance": 0,
+    "feature": "shell_crown",
+    "lore": "Lures platforms with a haunting melody. It works.",
+    "colors": {
+      "main": "#5b4fcf",
+      "outline": "#2d2080",
+      "highlight": "#b0a0ff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "timemage",
+    "name": "Time Mage Slime",
+    "unlockDistance": 0,
+    "feature": "hourglass_charm",
+    "lore": "Bends time to dodge lava. Mostly bends it sideways.",
+    "colors": {
+      "main": "#c9a227",
+      "outline": "#8b6914",
+      "highlight": "#f0d870"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "shadow",
+    "name": "Shadow Slime",
+    "unlockDistance": 0,
+    "feature": "shadow_cloak",
+    "lore": "One with the darkness. Afraid of the lava glow.",
+    "colors": {
+      "main": "#3d3d4a",
+      "outline": "#1a1a28",
+      "highlight": "#8080c0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "astronaut",
+    "name": "Astronaut Slime",
+    "unlockDistance": 0,
+    "feature": "space_helmet",
+    "lore": "One small bounce for slime, one giant leap for slimekind.",
+    "colors": {
+      "main": "#e8edf5",
+      "outline": "#8090a8",
+      "highlight": "#ffffff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "alien",
+    "name": "Alien Slime",
+    "unlockDistance": 0,
+    "feature": "alien_eyes",
+    "lore": "Came 47 light-years to jump on floating rocks. No regrets.",
+    "colors": {
+      "main": "#57e0a0",
+      "outline": "#1a8050",
+      "highlight": "#b0ffdc"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "rocket",
+    "name": "Rocket Slime",
+    "unlockDistance": 0,
+    "feature": "rocket_fins",
+    "lore": "T-minus 3... 2... 1... BOING.",
+    "colors": {
+      "main": "#e84040",
+      "outline": "#a00000",
+      "highlight": "#ff9090"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "saturn",
+    "name": "Saturn Slime",
+    "unlockDistance": 0,
+    "feature": "planet_ring",
+    "lore": "Has rings. Very distinguished. Still gets eaten by lava.",
+    "colors": {
+      "main": "#d4a86a",
+      "outline": "#8a6030",
+      "highlight": "#f0d4a0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "comet",
+    "name": "Comet Slime",
+    "unlockDistance": 0,
+    "feature": "comet_trail",
+    "lore": "Visits once every 76 jumps. Very reliable.",
+    "colors": {
+      "main": "#c8e8ff",
+      "outline": "#6090c0",
+      "highlight": "#ffffff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "blackhole",
+    "name": "Black Hole Slime",
+    "unlockDistance": 0,
+    "feature": "event_horizon",
+    "lore": "Warps space. Warps time. Can't warp lava, unfortunately.",
+    "colors": {
+      "main": "#1a0a2e",
+      "outline": "#0a0418",
+      "highlight": "#8040c0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "nebula",
+    "name": "Nebula Slime",
+    "unlockDistance": 0,
+    "feature": "nebula_wisps",
+    "lore": "Born in a cloud of gas and dust. Still a bit gassy.",
+    "colors": {
+      "main": "#6a30a0",
+      "outline": "#3a0860",
+      "highlight": "#e080ff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "starfield",
+    "name": "Starfield Slime",
+    "unlockDistance": 0,
+    "feature": "star_body",
+    "lore": "The universe is inside them. And also some lava.",
+    "colors": {
+      "main": "#0a0e28",
+      "outline": "#060812",
+      "highlight": "#c0d8ff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "moon_sl",
+    "name": "Moon Slime",
+    "unlockDistance": 0,
+    "feature": "moon_craters",
+    "lore": "Gravity here is 1/6th normal. Explains the bouncing.",
+    "colors": {
+      "main": "#c0c8d0",
+      "outline": "#7080a0",
+      "highlight": "#e8eef8"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "sun_sl",
+    "name": "Solar Slime",
+    "unlockDistance": 0,
+    "feature": "solar_corona",
+    "lore": "Surface temp: 5,500°C. Still cooler than the lava in this game.",
+    "colors": {
+      "main": "#ff9000",
+      "outline": "#cc5000",
+      "highlight": "#ffd060"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "satellite",
+    "name": "Satellite Slime",
+    "unlockDistance": 0,
+    "feature": "sat_panels",
+    "lore": "Transmitting jump data to mission control. Signal: excellent.",
+    "colors": {
+      "main": "#a0b0c0",
+      "outline": "#607080",
+      "highlight": "#d8e8f0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "ufo",
+    "name": "UFO Slime",
+    "unlockDistance": 0,
+    "feature": "ufo_saucer",
+    "lore": "Abducted by a slime. Now they ARE the slime. Full circle.",
+    "colors": {
+      "main": "#80d0a0",
+      "outline": "#308050",
+      "highlight": "#c0f0d8"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "meteor",
+    "name": "Meteor Slime",
+    "unlockDistance": 0,
+    "feature": "meteor_crust",
+    "lore": "Survived a 4.5 billion year journey. Lava is NBD.",
+    "colors": {
+      "main": "#8a6840",
+      "outline": "#503820",
+      "highlight": "#c09868"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "pulsar",
+    "name": "Pulsar Slime",
+    "unlockDistance": 0,
+    "feature": "energy_beams",
+    "lore": "Rotates 716 times per second. Has incredible dizziness.",
+    "colors": {
+      "main": "#40c0ff",
+      "outline": "#0060a0",
+      "highlight": "#a0e8ff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "galaxy",
+    "name": "Galaxy Slime",
+    "unlockDistance": 0,
+    "feature": "spiral_arms",
+    "lore": "Contains 200 billion stars. And one very brave slime.",
+    "colors": {
+      "main": "#3020a0",
+      "outline": "#180860",
+      "highlight": "#a090ff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "cosmonaut",
+    "name": "Cosmonaut Slime",
+    "unlockDistance": 0,
+    "feature": "cosmo_helmet",
+    "lore": "Пошли! (Let's go!) — First words before the first jump.",
+    "colors": {
+      "main": "#3060c0",
+      "outline": "#183080",
+      "highlight": "#70a0f0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "dark_matter",
+    "name": "Dark Matter Slime",
+    "unlockDistance": 0,
+    "feature": "dark_matter_field",
+    "lore": "97% undetectable. 3% that IS detected is very bouncy.",
+    "colors": {
+      "main": "#1e1e3a",
+      "outline": "#0c0c20",
+      "highlight": "#6060c0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "spacewhale",
+    "name": "Space Whale Slime",
+    "unlockDistance": 0,
+    "feature": "whale_fin",
+    "lore": "Sings at 52 Hz in the vacuum of space. Nobody hears it jump.",
+    "colors": {
+      "main": "#2060a0",
+      "outline": "#0a2850",
+      "highlight": "#60b0e8"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "constellation",
+    "name": "Constellation Slime",
+    "unlockDistance": 0,
+    "feature": "star_map",
+    "lore": "Connects the dots. Literally. Still can't connect with people.",
+    "colors": {
+      "main": "#0c1840",
+      "outline": "#060c28",
+      "highlight": "#ffd060"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "quasar",
+    "name": "Quasar Slime",
+    "unlockDistance": 0,
+    "feature": "quasar_jet",
+    "lore": "Brightest object in the universe. Stage fright: zero.",
+    "colors": {
+      "main": "#ffe860",
+      "outline": "#c0a000",
+      "highlight": "#ffffff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "zombie",
+    "name": "Zombie Slime",
+    "unlockDistance": 0,
+    "feature": "zombie_wounds",
+    "lore": "Braaaains... or platforms. Either way, it shambles toward them.",
+    "colors": {
+      "main": "#7aad50",
+      "outline": "#3a6020",
+      "highlight": "#b0d870"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "werewolf",
+    "name": "Werewolf Slime",
+    "unlockDistance": 0,
+    "feature": "wolf_snout",
+    "lore": "Full moon rising. Jump speed increasing. Send help.",
+    "colors": {
+      "main": "#8b6520",
+      "outline": "#4a3010",
+      "highlight": "#c09040"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "franken",
+    "name": "Franken Slime",
+    "unlockDistance": 0,
+    "feature": "bolt_stitches",
+    "lore": "ALIVE! It's ALIVE! ...It bounces, too.",
+    "colors": {
+      "main": "#7aad70",
+      "outline": "#205030",
+      "highlight": "#a0d090"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "cyclops",
+    "name": "Cyclops Slime",
+    "unlockDistance": 0,
+    "feature": "giant_eye",
+    "lore": "Has incredible depth perception. That's the joke.",
+    "colors": {
+      "main": "#c08040",
+      "outline": "#804020",
+      "highlight": "#e0c080"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "medusa",
+    "name": "Medusa Slime",
+    "unlockDistance": 0,
+    "feature": "snake_hair",
+    "lore": "Don't look directly at the jump.",
+    "colors": {
+      "main": "#3a8060",
+      "outline": "#1a4030",
+      "highlight": "#70c0a0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "minotaur",
+    "name": "Minotaur Slime",
+    "unlockDistance": 0,
+    "feature": "bull_horns_m",
+    "lore": "Lost in the labyrinth. Found a platform. This is fine.",
+    "colors": {
+      "main": "#8a4020",
+      "outline": "#4a1a00",
+      "highlight": "#c08050"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "mummy",
+    "name": "Mummy Slime",
+    "unlockDistance": 0,
+    "feature": "bandage_wrap",
+    "lore": "Thousands of years old. Still not great at jumping.",
+    "colors": {
+      "main": "#d8c89a",
+      "outline": "#9a8050",
+      "highlight": "#f0e8c0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "yeti",
+    "name": "Yeti Slime",
+    "unlockDistance": 0,
+    "feature": "yeti_fur",
+    "lore": "Sightings unconfirmed. Jumping very much confirmed.",
+    "colors": {
+      "main": "#d0e8f8",
+      "outline": "#80a8c0",
+      "highlight": "#ffffff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "imp",
+    "name": "Imp Slime",
+    "unlockDistance": 0,
+    "feature": "imp_wings",
+    "lore": "Too small to be a demon. Overcompensates with chaos.",
+    "colors": {
+      "main": "#d02030",
+      "outline": "#780010",
+      "highlight": "#ff6060"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "banshee",
+    "name": "Banshee Slime",
+    "unlockDistance": 0,
+    "feature": "wail_scream",
+    "lore": "The scream you hear at 3am? This thing, practicing jumps.",
+    "colors": {
+      "main": "#b8c8e8",
+      "outline": "#607090",
+      "highlight": "#dce8ff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "troll",
+    "name": "Troll Slime",
+    "unlockDistance": 0,
+    "feature": "troll_nose",
+    "lore": "Lives under platforms. Charges a toll. One jump.",
+    "colors": {
+      "main": "#4a7040",
+      "outline": "#2a4020",
+      "highlight": "#80b070"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "blob_m",
+    "name": "Blob Monster",
+    "unlockDistance": 0,
+    "feature": "absorb_eyes",
+    "lore": "Absorbed 47 slimes. None of them were good at jumping either.",
+    "colors": {
+      "main": "#40c050",
+      "outline": "#108020",
+      "highlight": "#a0f080"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "chimera",
+    "name": "Chimera Slime",
+    "unlockDistance": 0,
+    "feature": "chimera_mane",
+    "lore": "Part lion, part serpent, part slime. 100% confused.",
+    "colors": {
+      "main": "#c0802a",
+      "outline": "#7a4800",
+      "highlight": "#f0c060"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "gremlin",
+    "name": "Gremlin Slime",
+    "unlockDistance": 0,
+    "feature": "gremlin_ears",
+    "lore": "Fed after midnight. Immediately won every jump contest.",
+    "colors": {
+      "main": "#3ab040",
+      "outline": "#108020",
+      "highlight": "#80e090"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "wendigo",
+    "name": "Wendigo Slime",
+    "unlockDistance": 0,
+    "feature": "antler_skull",
+    "lore": "Ancient forest spirit. Disappointed by the lack of trees.",
+    "colors": {
+      "main": "#e8e0d8",
+      "outline": "#8a7060",
+      "highlight": "#ffffff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "cthulhu",
+    "name": "Cthulhu Slime",
+    "unlockDistance": 0,
+    "feature": "elder_tentacles",
+    "lore": "Ph'nglui mglw'nafh... anyway, the lava was still faster.",
+    "colors": {
+      "main": "#1a6050",
+      "outline": "#082820",
+      "highlight": "#60d0b0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "slender",
+    "name": "Slender Slime",
+    "unlockDistance": 0,
+    "feature": "void_face",
+    "lore": "No face. No problem. Extremely efficient jumper.",
+    "colors": {
+      "main": "#2a2a2a",
+      "outline": "#0a0a0a",
+      "highlight": "#f0f0f0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "harpy",
+    "name": "Harpy Slime",
+    "unlockDistance": 0,
+    "feature": "harpy_wings",
+    "lore": "Half bird, half slime. All screaming.",
+    "colors": {
+      "main": "#c06020",
+      "outline": "#703010",
+      "highlight": "#f0a060"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "lich",
+    "name": "Lich Slime",
+    "unlockDistance": 0,
+    "feature": "lich_crown",
+    "lore": "Achieved undeath just to see what the record was.",
+    "colors": {
+      "main": "#3a2060",
+      "outline": "#180840",
+      "highlight": "#9060d0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "beholder",
+    "name": "Beholder Slime",
+    "unlockDistance": 0,
+    "feature": "eye_stalks",
+    "lore": "Sees everything. Still lands on lava sometimes.",
+    "colors": {
+      "main": "#607048",
+      "outline": "#303820",
+      "highlight": "#a0c060"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "zeus",
+    "name": "Zeus Slime",
+    "unlockDistance": 0,
+    "feature": "zeus_bolts",
+    "lore": "King of the gods. Still loses to lava. Embarrassing.",
+    "colors": {
+      "main": "#4060c0",
+      "outline": "#1a2880",
+      "highlight": "#b0c8ff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "athena",
+    "name": "Athena Slime",
+    "unlockDistance": 0,
+    "feature": "athena_helm",
+    "lore": "Goddess of wisdom. Calculated the optimal jump trajectory.",
+    "colors": {
+      "main": "#9060c0",
+      "outline": "#501880",
+      "highlight": "#d0a8f0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "ares",
+    "name": "Ares Slime",
+    "unlockDistance": 0,
+    "feature": "ares_shield",
+    "lore": "God of war. Declared war on the lava. Lava won.",
+    "colors": {
+      "main": "#c02020",
+      "outline": "#800000",
+      "highlight": "#ff6060"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "poseidon",
+    "name": "Poseidon Slime",
+    "unlockDistance": 0,
+    "feature": "poseidon_trident",
+    "lore": "Ruler of the seas. Very confused about the lava.",
+    "colors": {
+      "main": "#1a80c0",
+      "outline": "#0a4080",
+      "highlight": "#60d0ff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "apollo",
+    "name": "Apollo Slime",
+    "unlockDistance": 0,
+    "feature": "apollo_lyre",
+    "lore": "God of the sun and music. His jump landing sounds beautiful.",
+    "colors": {
+      "main": "#ffa020",
+      "outline": "#c07000",
+      "highlight": "#ffe880"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "artemis",
+    "name": "Artemis Slime",
+    "unlockDistance": 0,
+    "feature": "artemis_bow",
+    "lore": "Never misses a platform. Never. Not once.",
+    "colors": {
+      "main": "#a0c8e8",
+      "outline": "#4080a8",
+      "highlight": "#d8f0ff"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "hermes",
+    "name": "Hermes Slime",
+    "unlockDistance": 0,
+    "feature": "hermes_wings",
+    "lore": "Fastest messenger. Couldn't deliver a warning about the lava.",
+    "colors": {
+      "main": "#40b070",
+      "outline": "#1a6040",
+      "highlight": "#80f0b0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "hades",
+    "name": "Hades Slime",
+    "unlockDistance": 0,
+    "feature": "hades_helm",
+    "lore": "Rules the underworld. Very much at home near the lava.",
+    "colors": {
+      "main": "#2a1a4a",
+      "outline": "#100818",
+      "highlight": "#7050c0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "hercules",
+    "name": "Hercules Slime",
+    "unlockDistance": 0,
+    "feature": "hercules_club",
+    "lore": "12 labors completed. 13th labor: don't fall in the lava.",
+    "colors": {
+      "main": "#8a6020",
+      "outline": "#4a3000",
+      "highlight": "#d0a040"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "achilles",
+    "name": "Achilles Slime",
+    "unlockDistance": 0,
+    "feature": "achilles_armor",
+    "lore": "Invulnerable everywhere except... you know. Watch the lava.",
+    "colors": {
+      "main": "#c0a030",
+      "outline": "#806000",
+      "highlight": "#f0d870"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "odysseus",
+    "name": "Odysseus Slime",
+    "unlockDistance": 0,
+    "feature": "odysseus_helm",
+    "lore": "10 years to get home. Took 10 minutes to find the first platform.",
+    "colors": {
+      "main": "#3070a0",
+      "outline": "#1a3860",
+      "highlight": "#70b8e8"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "perseus",
+    "name": "Perseus Slime",
+    "unlockDistance": 0,
+    "feature": "perseus_shield",
+    "lore": "Slew Medusa. Mirror shield works great for looking at lava.",
+    "colors": {
+      "main": "#c0c8d8",
+      "outline": "#708098",
+      "highlight": "#e8ecf8"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "thor",
+    "name": "Thor Slime",
+    "unlockDistance": 0,
+    "feature": "thor_hammer",
+    "lore": "Worthy of the hammer. Apparently not worthy of avoiding lava.",
+    "colors": {
+      "main": "#4888c0",
+      "outline": "#1a4880",
+      "highlight": "#90c8f8"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "odin",
+    "name": "Odin Slime",
+    "unlockDistance": 0,
+    "feature": "odin_ravens",
+    "lore": "All-Father. His ravens warned him about the lava. He ignored them.",
+    "colors": {
+      "main": "#2a3050",
+      "outline": "#101830",
+      "highlight": "#8090d0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "loki",
+    "name": "Loki Slime",
+    "unlockDistance": 0,
+    "feature": "loki_horns",
+    "lore": "God of mischief. Pushed three other slimes into the lava.",
+    "colors": {
+      "main": "#306840",
+      "outline": "#103820",
+      "highlight": "#70c080"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "ra",
+    "name": "Ra Slime",
+    "unlockDistance": 0,
+    "feature": "ra_crown",
+    "lore": "Egyptian sun god. Crosses the sky every day. Avoids lava daily.",
+    "colors": {
+      "main": "#d08020",
+      "outline": "#904800",
+      "highlight": "#f8c860"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "anubis",
+    "name": "Anubis Slime",
+    "unlockDistance": 0,
+    "feature": "anubis_ears",
+    "lore": "Weighs souls. Found that slime souls weigh exactly one feather.",
+    "colors": {
+      "main": "#1a1a2a",
+      "outline": "#0a0a18",
+      "highlight": "#6060a0"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "gilgamesh",
+    "name": "Gilgamesh Slime",
+    "unlockDistance": 0,
+    "feature": "gilgamesh_crown",
+    "lore": "Two-thirds divine. Full 100% bad at avoiding lava rivers.",
+    "colors": {
+      "main": "#a07830",
+      "outline": "#604800",
+      "highlight": "#d8b860"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "sun_wukong",
+    "name": "Sun Wukong Slime",
+    "unlockDistance": 0,
+    "feature": "wukong_staff",
+    "lore": "Born from a stone. Bounces like one too.",
+    "colors": {
+      "main": "#e87020",
+      "outline": "#a03800",
+      "highlight": "#ffa060"
+    },
+    "unlockCost": 50
+  },
+  {
+    "id": "beowulf",
+    "name": "Beowulf Slime",
+    "unlockDistance": 0,
+    "feature": "beowulf_scale",
+    "lore": "Slayer of Grendel. Grendel was just a smaller slime, honestly.",
+    "colors": {
+      "main": "#4a6050",
+      "outline": "#1a3020",
+      "highlight": "#88c0a0"
+    },
+    "unlockCost": 50
+  }
+]

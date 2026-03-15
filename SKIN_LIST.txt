@@ -1,0 +1,59 @@
+2=========================================
+   SLIME JUMP - BIOME ADVENTURE
+       OFFICIAL SKIN LIST (41 Skins)
+=========================================
+
+[ 기본 & 고유 색상 ]
+1. Greenie - 기본 숲 슬라임
+2. Sky Blue - 맑은 하늘색 슬라임
+3. Magma Red - 뜨거운 화산색 슬라임
+4. Void Purple - 신비로운 우주색 슬라임
+5. Berry Pink - 달콤한 딸기색 슬라임
+
+[ 스포츠 테마 ]
+6. Basketball Slime - 농구공
+7. Boxing Slime - 권투 글러브
+8. Tennis Slime - 테니스 라켓
+9. Golf Slime - 골프 모자
+10. Swimming Slime - 물안경
+11. Judo Slime - 검은띠
+12. Skater Slime - 스케이트 헬멧
+13. Fencer Slime - 펜싱 마스크
+14. Lifter Slime - 역도 벨트
+15. Cycling Slime - 사이클 헬멧
+16. Ski Slime - 스키 고글
+17. Catcher Slime - 포수 마스크
+18. Taekwondo Slime - 헤드 가드
+19. Archer Slime - 화살통
+20. Karate Slime - 붉은 머리띠
+21. Volley Slime - 배구공
+22. Rugby Slime - 스크럼 캡
+23. Hockey Slime - 하키 마스크
+24. Shuttlecock Slime - 셔틀콕
+25. Surfer Slime - 서핑 보드
+
+[ 직업 테마 ]
+26. Doctor Slime - 청진기
+27. Fire Slime - 소방 헬멧
+28. Lab Slime - 실험 플라스크
+29. Astro Slime - 우주 헬멧
+30. Builder Slime - 안전모
+31. Farmer Slime - 밀짚모자
+32. Artist Slime - 베레모
+33. CEO Slime - 넥타이
+34. Wizard Slime - 마법사 모자
+35. Pilot Slime - 기장 모자
+36. Judge Slime - 판사 가발
+37. Miner Slime - 광부 모자(빛남)
+38. Sherlock Slime - 사냥꾼 모자
+39. Sailor Slime - 해군 모자
+40. Nurse Slime - 간호사 캡
+41. Grad Slime - 학사모
+42. Cowboy Slime - 카우보이 모자
+43. Fixer Slime - 렌치
+44. Teacher Slime - 안경
+45. Diver Slime - 스쿠버 마스크
+
+-----------------------------------------
+모든 스킨은 32x32 고퀄리티 Artisan 렌더링이 적용되어 있습니다.
+-----------------------------------------
