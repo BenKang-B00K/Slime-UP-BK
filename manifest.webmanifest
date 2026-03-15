@@ -1,0 +1,22 @@
+{
+  "name": "Slime UP!",
+  "short_name": "Slime UP!",
+  "description": "A cute jelly slime platformer. Jump through biomes and collect GOLD.",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0a12",
+  "theme_color": "#55DD55",
+  "icons": [
+    {
+      "src": "app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
